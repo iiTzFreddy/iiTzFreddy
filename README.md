@@ -5,9 +5,9 @@
 ### About 📌
 
 ### ✔  **Domain :** Full-Stack Web Development 💻 | Machine Learning 🤖
-### ✔  **Skills :** Javascript, Python, PHP, MySQL, C++, Java
-### ✔  **Development Learning:** React, Node.js, Next.js, Material UI, React Native, Bootstrap4
-### ✔  **Hobbies :** Swimming 🏊‍♂️, 8 Ball Pool 🎱, Badminton 🏸, Music 🎧
+### ✔  **Skills :** Javascript, Python, C++, Java
+### ✔  **Development Learning:** React, Node.js
+### ✔  **Hobbies :** 
 
 
 ## Contributing to Open-Source 🔥
