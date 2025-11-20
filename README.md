@@ -17,6 +17,6 @@
 </p>
 
 <p align="left">
-  <img alt="Pranjal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iiTzFreddy&show_icons=true&theme=radical">
+  <img alt="Freddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iiTzFreddy&show_icons=true&theme=radical">
 </p>
 
