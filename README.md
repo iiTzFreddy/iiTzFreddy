@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**iiTzFreddy/iiTzFreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Freddy Rives
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About 📌
 
-Here are some ideas to get you started:
+### ✔  **Domain :** Full-Stack Web Development 💻 | Machine Learning 🤖
+### ✔  **Skills :** Javascript, Python, PHP, MySQL, C++, Java
+### ✔  **Development Learning:** React, Node.js, Next.js, Material UI, React Native, Bootstrap4
+### ✔  **Hobbies :** Swimming 🏊‍♂️, 8 Ball Pool 🎱, Badminton 🏸, Music 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contributing to Open-Source 🔥
+
+<p align="left">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=pranjal36&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=dark_dimmed" />
+</p>
+
+<p align="left">
+  <img alt="Pranjal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranjal36&show_icons=true&theme=radical">
+</p>
+
