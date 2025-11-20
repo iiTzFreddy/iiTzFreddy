@@ -13,10 +13,6 @@
 ## Contributing to Open-Source 🔥
 
 <p align="left">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=iiTzFreddy&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=dark_dimmed" />
-</p>
-
-<p align="left">
   <img alt="Freddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iiTzFreddy&show_icons=true&theme=radical">
 </p>
 
